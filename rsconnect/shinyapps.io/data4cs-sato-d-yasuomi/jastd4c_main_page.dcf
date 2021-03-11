@@ -1,0 +1,12 @@
+name: jastd4c_main_page
+title: jastd4c_main_page
+username:
+account: data4cs-sato-d-yasuomi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3738772
+bundleId: 4328594
+url: https://data4cs-sato-d-yasuomi.shinyapps.io/jastd4c_main_page/
+when: 1615426412.68335
+asMultiple: FALSE
+asStatic: FALSE
